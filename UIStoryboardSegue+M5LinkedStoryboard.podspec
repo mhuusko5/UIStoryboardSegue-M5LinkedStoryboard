@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name = 'UIStoryboardSegue-M5LinkedStoryboard'
-  s.version = '1.0.0'
+  s.name = 'UIStoryboardSegue+M5LinkedStoryboard'
+  s.version = '1.0.1'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.summary = 'Make segues (including embeds) work cross-storyboard.'
   s.description = 'Make segues (including embeds) work cross-storyboard. Segue identifiers should be in the form TARGET_SCENE_IDENTIFIER@TARGET_STORYBOARD_NAME.'
